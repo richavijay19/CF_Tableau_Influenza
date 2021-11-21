@@ -39,7 +39,8 @@ In this study case, I rejected the null hypothesis and confirmed my research hyp
 The second part of the influenza project concentrated on to draw insights from the same Influenza data using  data visualization techniques  of Tableau. 
 I created composition & comparision charts( Pie, Bar, Column, Tree Map), temporal, spatial, and textual charts. Since the scope of the project required looking for insights to 
 prepare for the next season, I also generated a forecast.I also created some Statistical visualization like histogram , Box Plots,scatter plots and bubble charts to look at the distribution of variable and correlation betweeen different variables.
-In Tableau’s dashboard, I produced a report with my findings along with recommendations and video-recorded the insights for the stakeholders.
+
+In Tableau’s dashboard, I produced [report](https://public.tableau.com/app/profile/richavijay/viz/PreparingforInfluenza_2_9_StorytellingwithDataPresentations/Story1) with my findings along with recommendations and [video-recorded](https://www.youtube.com/watch?v=97AySHvD8p0) the insights for the stakeholders.
 
 
 
